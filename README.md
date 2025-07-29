@@ -28,7 +28,7 @@ Modular governance and zk-credential smart contract system for Optimism-native D
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/bmx4life-governance/README.md
+git clone https://github.com/bmx4life77/kctiDAO-governance.git
 cd kctiDAO
 npm install
 npx hardhat compile
